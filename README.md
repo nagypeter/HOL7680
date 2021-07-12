@@ -1,5 +1,7 @@
 ![](images/oow.png)
 -----
+# WARNING! THIS TUTORIAL IS DEPRECATED. 
+
 ##  HOL7680: Easy Migration: On-Premises Oracle WebLogic to Oracle Java Cloud Service  ##
 
 ### About this tutorial ###
